@@ -50,6 +50,7 @@ This is a free, open-source project, and we welcome contributions from everyone!
 5.  The extension should now be active!
 
 ![Usage](https://i.ibb.co/twgB2jdz/fullgif.gif)
+[https://i.ibb.co/twgB2jdz/fullgif.gif](https://i.ibb.co/twgB2jdz/fullgif.gif)
 
 ## Contact
 
