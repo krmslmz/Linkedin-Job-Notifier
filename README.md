@@ -49,11 +49,7 @@ This is a free, open-source project, and we welcome contributions from everyone!
 4.  Click "Load unpacked" and select the directory where you cloned the repository.
 5.  The extension should now be active!
 
-![Extension Setup](https://i.ibb.co/Y4D3gDD5/extention-setup.gif)
-
-## Usage
-
-![Extension Usage](https://i.ibb.co/JW0XbBcc/extention-use.gif)
+![Extension Setup&Usage](https://i.ibb.co/twgB2jdz/fullgif.gif)
 
 ## Contact
 
